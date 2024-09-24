@@ -1,0 +1,40 @@
+Map<String, String> enMap = {
+  // home
+  "search": "Are you looking for something...?",
+  "fastOrder": "Deliver to me",
+  "food": "Food",
+  "homeProject": "Home Projects",
+  "pharm": "Pharmacies",
+  "favrate": "Favorites",
+  "cart": "Cart",
+  "orders": "Orders",
+  "account": "Account",
+  "home": "Home",
+  "notf": "Notifications",
+  // medicine
+  "pharmTitle": "Order your medicine now",
+  "dragName": "Medicine name",
+  "pharmSeg": "Pharmacy suggestion (optional)",
+  "pictureOFDrag": "Picture of medicine or prescription",
+  "orderDrag": "Order medicine",
+  // food
+  "foodTitle": "Food",
+  "timeON": "Open from 8 am to 12 midnight",
+  "all": "All",
+  "open": "Open",
+  "close": "Closed",
+  "restName": "Restaurant name",
+  // home project
+  "homeprojectTitle": "Home Projects",
+  "towmoro": "Available tomorrow",
+  // account
+  "setting": "Settings",
+  "hi": "Hi",
+  "accountStteng": "Account Settings",
+  "editAccount": "Edit Account",
+  "editLoc": "Edit Addresses",
+  "genralSetting": "General Settings",
+  "darkMode": "Dark Mode",
+  "lang": "Language",
+  "devloper": "App Developer",
+};
